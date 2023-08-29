@@ -33,7 +33,7 @@
 - Why is it important to assess how an algorithm’s runtime grows in relation to the size of its input?
 
 ## Algorithm Analysis:
-- 
+An algorithm is a set of instructions. 
 
 ## Algorithm Activity Solution:
 
@@ -48,7 +48,7 @@
 
 
 ### Additional Resources: 
-- [Text](URL)
+- [Intro to Algorithms](https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3)
 
 
 #### Homework Hints: 
